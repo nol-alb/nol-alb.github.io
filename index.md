@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## The MultiPass Recursor 
 
-You can use the [editor on GitHub](https://github.com/nol-alb/nol-alb.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### The Elevator Pitch
+The MultiPass Recursor is an audio application and plugin that gives musicians the ability to split the input sound into 3 easily tweakable frequency bands and apply any number of 3rd party effects plugins into each band!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
